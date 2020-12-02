@@ -1,5 +1,5 @@
 # GoRaspBuilder
-go build tool with cgo package for Raspberry Py 
+build tool for go package with cgo for Raspberry Py.
 
 ## how to
 * build docker container  
